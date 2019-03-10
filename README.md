@@ -14,6 +14,11 @@ In this notebook I demonstrated the application of the most common statistical c
 * find correlations between variables,
 * discover statistical significance.
 
+Screenshots:
+![plots](https://github.com/Lexie88rus/statistical-concepts-using-titanic-dataset/blob/master/screenshots/bar%20chart.png)
+![plots](https://github.com/Lexie88rus/statistical-concepts-using-titanic-dataset/blob/master/screenshots/box%20plot.png)
+![plots](https://github.com/Lexie88rus/statistical-concepts-using-titanic-dataset/blob/master/screenshots/correlations%20heatmap.png)
+![plots](https://github.com/Lexie88rus/statistical-concepts-using-titanic-dataset/blob/master/screenshots/box%20plot.png)
 
 
 
